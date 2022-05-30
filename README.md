@@ -23,7 +23,7 @@
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Breno" height="150" style="border-radius:50px;" src="https://i.ibb.co/bW3qTwD/7456520f-ec8c-48dd-b8fd-7e470efb5fa0.jpg">
+  <img align="right" alt="Breno" height="150" style="border-radius:50%;" src="https://i.ibb.co/bW3qTwD/7456520f-ec8c-48dd-b8fd-7e470efb5fa0.jpg">
 </div>
 
 <h2>🎲 Back-end </h2>
