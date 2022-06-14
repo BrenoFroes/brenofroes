@@ -1,7 +1,7 @@
 ### Hey, como vai!? Prazer, eu sou o Breno Fróes!
 
 - 🔭 Eu estou trabalhando como front-end
-- 🌱 Eu estou aprendendo mais sobre VueJs
+- 🌱 Eu estou aprendendo mais sobre testes
 - 👯 Eu estou colaborando na área de design gráfico e UI
 - 😄 Pronomes: ele / dele
 - ⚡ Fato engraçado: já fiz uma apresentação desafinada de flauta
